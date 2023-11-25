@@ -260,4 +260,8 @@ Reliez la Node « Texture Coordinate » à la Node « Multiply ».
 
 ![image](assets/ConnectTextureCoordinate.png)
 
-Vous pouvez désormais vous amuser à peindre, sculpter votre Landscape et à personnaliser votre Material.
+## Conclusion
+
+Vous avez maintenant les bases pour créer un Landscape dans Unreal Engine.
+
+Vous pouvez vous amuser à créer votre propre Landscape et à le peindre avec les textures de votre choix.
