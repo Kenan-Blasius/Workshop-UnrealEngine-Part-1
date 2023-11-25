@@ -3,13 +3,15 @@
 ## Introduction
 
 Bienvenue dans ce workshop de création de Landscape dans Unreal Engine.
+
 Dans ce workshop vous allez apprendre à créer un terrain immersif et « réaliste » dans Unreal Engine 5.
+
 Vous commencerez par apprendre à générer un terrain puis à le sculpter puis à le peindre en créant des matériaux.
 
 Ce workshop est découpé en 3 parties :
 
-- Partie 1 (ce workshop) : Création/Sculpture/Peinture du terrain
-- Partie 2 : Création d’un Level
+- Partie 1 (ce workshop) : [Création/Sculpture/Peinture du terrain](https://github.com/Kenan-Blasius/Workshop-UnrealEngine-Part-1)
+- Partie 2 : [Création de décors](https://github.com/Kenan-Blasius/Workshop-UnrealEngine-Part-2)
 - Partie 3 : Création d’un Level avec un personnage jouable
 
 ## Création d'un projet
