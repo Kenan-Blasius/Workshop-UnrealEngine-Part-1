@@ -12,7 +12,7 @@ Ce workshop est découpé en 3 parties :
 
 - Partie 1 (ce workshop) : [Création/Sculpture/Peinture du terrain](https://github.com/Kenan-Blasius/Workshop-UnrealEngine-Part-1)
 - Partie 2 : [Création de décors](https://github.com/Kenan-Blasius/Workshop-UnrealEngine-Part-2)
-- Partie 3 : Création d’un Level avec un personnage jouable
+- Partie 3 : [Importation de model exterieur/Création de particule](https://github.com/Kenan-Blasius/Workshop-UnrealEngine-Part-3)
 
 ## Création d'un projet
 
