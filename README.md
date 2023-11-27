@@ -49,7 +49,7 @@ Une fois que le projet a fini de chargez vous devriez avoir cette fenêtre :
 
 ![image](assets/ProjectJustCreated.png)
 
-Vous pouvez sur `Content Browser` et le drag and drop dans la parti inférieur de la vue 3D pour que la fenêtre `Content Browser` ne soit plus une fenêtre flottante.
+Vous pouvez cliquez sur le `Content Browser` et le drag and drop dans la parti inférieur de la vue 3D pour que la fenêtre `Content Browser` ne soit plus une fenêtre flottante.
 
 ![image](assets/ContentBrowserTab.png)
 
@@ -209,7 +209,7 @@ Vous devriez avoir quelque chose similaire à ça :
 
 ![image](assets/MultipleTextureLandscape.png)
 
-Maintenant tout comme nous avonss créé un Make Material Attributes, nous allons créer un `Landscape Layer Blend` qui va nous permettre de définir les différentes couleurs/texture de notre Landscape.
+Maintenant tout comme nous avonss créé un `Make Material Attributes`, nous allons créer un `Landscape Layer Blend` qui va nous permettre de définir les différentes couleurs/texture de notre Landscape.
 
 ![image](assets/LandscapeLayerBlend.png)
 
@@ -221,7 +221,7 @@ Puis relier les deux `Make Material Attributes` au node `Landscape Layer Blend` 
 
 ![image](assets/ConnectLandscapeLayerBlend.png)
 
-Cliquez sur le `Apply` danss le coin supérieur gauche de la fenêtre du Material.
+Cliquez sur le `Apply` dans le coin supérieur gauche de la fenêtre du Material.
 
 Fermez la fenêtre du Material.
 
